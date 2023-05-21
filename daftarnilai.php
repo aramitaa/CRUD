@@ -34,6 +34,12 @@ $daftarnilai = simplexml_load_file('daftar.xml');
 
 <div class="container">
 	<h4><strong> Daftar Nilai Mahasiswa TAU</strong></h4>
+	<nav style="--bs-breadcrumb-divider: '/';" aria-label="breadcrumb">
+		<ol class="breadcrumb">
+			<li class="breadcrumb-item"><a href="index.html">Home</a></li>
+			<li class="breadcrumb-item active" aria-current="page">CRUD</li>
+		</ol>
+	</nav>
 	<br>
 
 	<a href="add.php"><button type="button" class="btn btn-dark mb-4">Add Data Mahasiswa</button></a>
