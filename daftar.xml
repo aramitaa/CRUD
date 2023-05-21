@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<daftarnilai>
+	
+        <daftar id=" 467263">
+        		<name>Sarah</name>
+                <kelas>IS-Reguler Batch 7</kelas>
+                <matkul>System Integration</matkul>
+                <tugas>80</tugas>
+                <uts>55</uts>
+                <uas>78</uas>
+    	</daftar>
+        <daftar id=" 467264">
+        		<name>Mamat</name>
+                <kelas>IS-Reguler Batch 6</kelas>
+                <matkul>System Integration</matkul>
+                <tugas>75</tugas>
+                <uts>75</uts>
+                <uas>88</uas>
+    	</daftar>
+        <daftar id=" 467265">
+        		<name>Dadang</name>
+                <kelas>IS-Reguler Batch 7</kelas>
+                <matkul>System Integration</matkul>
+                <tugas>90</tugas>
+                <uts>78</uts>
+                <uas>66</uas>
+    	</daftar>
+        <daftar id=" 467266">
+        		<name>Rahayu</name>
+                <kelas>IS-Reguler Batch 8</kelas>
+                <matkul>System Integration</matkul>
+                <tugas>60</tugas>
+                <uts>96</uts>
+                <uas>90</uas>
+    	</daftar>
+	
+        <daftar id=" 467267">
+        		<name>Sukma</name>
+                <kelas>IS-Reguler Batch 8</kelas>
+                <matkul>System Integration</matkul>
+                <tugas>95</tugas>
+                <uts>83</uts>
+                <uas>87</uas>
+    	</daftar>
+
+<daftar id="07021011"><name>Aramita Nur Azizah</name><kelas>IS-Reguler Batch 10</kelas><matkul>System Integration</matkul><tugas>100</tugas><uts>100</uts><uas>100</uas></daftar></daftarnilai>
